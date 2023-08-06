@@ -1,0 +1,13 @@
+body{
+	background-color: skyblue;
+}
+.survey{
+	text-align: center;
+	vertical-align: top;
+}
+.home{
+	border-style: solid;
+	width: 10%;
+	border-radius: 30px;
+	background-color: brown;
+}
